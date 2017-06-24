@@ -15,18 +15,14 @@ instead of just taking complete credit for it
 <br>
 <br>
 </br>
-<strong>Version 1.4 - </strong>
+<strong>Version 1.7 - </strong>
 <strong>Klaus bot cmds:</strong>
 <br>
-!hello - will respond with hello (username)
-<br>
-!bye - will respond with bye (username)
-<br>
-!warn (username) - sends a user a pm and warns them
+!warn (username)(reason) - sends a user a pm and warns them
 <br>
 !kick (username) - kicks a user from the server
 <br>
-!ban (username) - bans a user from the server
+!ban (username) (reason) - bans a user from the server
 <br>
 !purge (number) - will delete (number) amount of messages max is 99
 <br>
@@ -40,16 +36,28 @@ instead of just taking complete credit for it
 <br>
 !joined (username) - Checks when a user joined the server
 <br>
-!8ball - Will give a random 8ball response
+!8ball (question) - Will give a random 8ball response
 <br>
 !changelog - Will send a messase showing what chages were made in the new update
 <br>
-!serverinfo displays info on the discord server
+!serverinfo - displays info on the discord server
+<br>
+!lockdown - (hours, mins, secs) - will lockdown the discord channel for (hours, mins, secs)
+<br>
+!unban - (username) (reason) - will unban (username) from the server
+<br>
+!mute - (username) (reason) - will add the (username) user to the muted role
+<br>
+!say - (text) - bot will respond with (text)
 <br>
 Music cmds:
-!add [youtubelink] - will add [youtubelink] to the queue
-!play [songname] - will play [songname] in the voice channel
+<br>
+!add - [youtubelink] - will add [youtubelink] to the queue
+<br>
+!play - [songname] - will play [songname] in the voice channel
+<br>
 !quene - will say the current queue
+<br>
 !skip - will skip the current song 
 <br>
 </form>
