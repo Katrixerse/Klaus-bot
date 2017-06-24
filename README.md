@@ -50,6 +50,10 @@ instead of just taking complete credit for it
 <br>
 !say - (text) - bot will respond with (text)
 <br>
+!ping - will respond with pong! (time it took in ms)
+<br>
+!coinflip - will flip a coin and respond with either heads or tails
+<br>
 Music cmds:
 <br>
 !add - [youtubelink] - will add [youtubelink] to the queue
