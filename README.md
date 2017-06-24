@@ -46,6 +46,11 @@ instead of just taking complete credit for it
 <br>
 !serverinfo displays info on the discord server
 <br>
+Music cmds:
+!add [youtubelink] - will add [youtubelink] to the queue
+!play [songname] - will play [songname] in the voice channel
+!quene - will say the current queue
+!skip - will skip the current song 
 <br>
 </form>
 </form>
