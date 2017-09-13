@@ -1,0 +1,72 @@
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.exe.config
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.csprojResolveAssemblyReference.cache
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.exe
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.pdb
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.Commands.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.Modules.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Newtonsoft.Json.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\RestSharp.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\WebSocket4Net.dll
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Newtonsoft.Json.xml
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.xml
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\bin\Debug\RestSharp.xml
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.exe
+c:\users\rob and leah\documents\visual studio 2015\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.pdb
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.exe.config
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.exe
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\klausbotfixed.pdb
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.Commands.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Discord.Net.Modules.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\RestSharp.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\WebSocket4Net.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\RestSharp.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.csprojResolveAssemblyReference.cache
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.exe
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\obj\Debug\klausbotfixed.pdb
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\klausbotfixed.exe.config
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\klausbotfixed.exe
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\klausbotfixed.pdb
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Discord.Net.Commands.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Discord.Net.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Discord.Net.Modules.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\RestSharp.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\WebSocket4Net.dll
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\bin\Debug\RestSharp.xml
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\obj\Debug\klausbotfixed.csprojResolveAssemblyReference.cache
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\obj\Debug\klausbotfixed.exe
+C:\Users\zmyers550\Documents\Visual Studio 2017\Projects\klausbotfixed\Klausbot\klausbotfixed\obj\Debug\klausbotfixed.pdb
