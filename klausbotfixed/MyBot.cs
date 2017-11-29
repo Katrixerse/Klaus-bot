@@ -149,7 +149,6 @@ namespace Discordbot
             RegisterPurgeCommand();
             RegisterHelloCommand();
             RegisterByeCommand();
-            RegisterreportCommand();
             RegisterHelpCommand();
             RegisterKickCommand();
             RegisterTestCommand();
@@ -313,16 +312,6 @@ namespace Discordbot
                 .Do(async (e) =>
                 {
                     await e.Channel.SendMessage("I do not approve of this");
-                });
-        }
-
-        private void RegisterreportCommand()
-        {
-            commands.CreateCommand("report")
-                .Do(async (e) =>
-                {
-                    await e.Channel.SendMessage("Reported last message to @Doppler#3837");
-
                 });
         }
 
