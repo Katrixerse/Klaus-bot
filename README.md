@@ -5,7 +5,7 @@ NOTE: the source is outdated and is the old v1.4 and has a little amount of cmds
 
 Im releasing the source for free it has some unfinshed cmds like report and and warn
 But hopefuly someone can help finsh it, i will still work on my version
-If your going to download and edit it please give original credits like made by: Dopper#3837 and edited by: your username 
+If your going to download and edit it please give original credits like made by: Doppler#3837 and edited by: your username 
 instead of just taking complete credit for it
 
 <html>
