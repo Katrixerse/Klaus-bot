@@ -1,6 +1,0 @@
-{
-  "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIxMzA1MTU5MjYxMTcyNTMxMjIiLCJyYW5kIjoyMjksImlhdCI6MTQ5NjkyNDMyMX0.Ub98Ce5jJ-lVol5Cnkskf2bgKFLqRGRvqXNkvoad09k",
-  "OwnerIds": [ 130515926117253122 ],
-  "ShardCount": 1,
-  "server_count": 5 // and/or another metadata key
-}
